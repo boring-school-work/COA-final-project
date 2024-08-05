@@ -767,7 +767,7 @@
     <comp lib="8" loc="(1700,2645)" name="Text">
       <a name="text" val="D10"/>
     </comp>
-    <comp lib="8" loc="(1738,2683)" name="Text">
+    <comp lib="8" loc="(1735,2680)" name="Text">
       <a name="text" val="Internal Data Bus"/>
     </comp>
     <comp lib="8" loc="(1750,2645)" name="Text">
@@ -800,7 +800,7 @@
     <comp lib="8" loc="(2020,2645)" name="Text">
       <a name="text" val="D0"/>
     </comp>
-    <comp lib="8" loc="(2734,206)" name="Text">
+    <comp lib="8" loc="(2730,205)" name="Text">
       <a name="text" val="External Data Bus"/>
     </comp>
     <comp lib="8" loc="(3145,1380)" name="Text">
@@ -2167,7 +2167,7 @@
     <comp lib="8" loc="(1700,2645)" name="Text">
       <a name="text" val="D10"/>
     </comp>
-    <comp lib="8" loc="(1738,2683)" name="Text">
+    <comp lib="8" loc="(1735,2680)" name="Text">
       <a name="text" val="Internal Data Bus"/>
     </comp>
     <comp lib="8" loc="(1750,2645)" name="Text">
@@ -2200,7 +2200,7 @@
     <comp lib="8" loc="(2020,2645)" name="Text">
       <a name="text" val="D0"/>
     </comp>
-    <comp lib="8" loc="(2734,206)" name="Text">
+    <comp lib="8" loc="(2730,205)" name="Text">
       <a name="text" val="External Data Bus"/>
     </comp>
     <comp lib="8" loc="(3145,1380)" name="Text">
