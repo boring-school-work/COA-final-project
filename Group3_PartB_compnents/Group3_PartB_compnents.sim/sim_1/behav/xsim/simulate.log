@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+ERROR: File: C:/Xilinx/codes/Group3_PartB_compnents/Group3_PartB_compnents.srcs/sources_1/new/alu_32bit.vhd Line: 35 : Division by zero is not allowed.
+Time: 130 ps  Iteration: 5  Process: /tb_MIPS_32bit/uut/aalu/line__22
+  File: C:/Xilinx/codes/Group3_PartB_compnents/Group3_PartB_compnents.srcs/sources_1/new/alu_32bit.vhd
+
+HDL Line: C:/Xilinx/codes/Group3_PartB_compnents/Group3_PartB_compnents.srcs/sources_1/new/alu_32bit.vhd:35

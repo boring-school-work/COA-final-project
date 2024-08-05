@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_MIPS_32bit_behav/xsimk.exe -simmode gui -wdb tb_MIPS_32bit_behav.wdb -simrunnum 0 -socket 65437
+Design successfully loaded
+Design Loading Memory Usage: 8332 KB (Peak: 8332 KB)
+Design Loading CPU Usage: 61 ms
+Simulation completed
+Simulation Memory Usage: 8936 KB (Peak: 8936 KB)
+Simulation CPU Usage: 61 ms
